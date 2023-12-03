@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "full bridge smps")(type "KiCad")(uri "${KIPRJMOD}/full bridge smps.kicad_sym")(options "")(descr ""))
-  (lib (name "ucc28950")(type "KiCad")(uri "${KIPRJMOD}/full bridge smps/ucc28950.kicad_sym")(options "")(descr ""))
+  (lib (name "fb_smps_symbols")(type "KiCad")(uri "${KIPRJMOD}/fb_smps_symbols.kicad_sym")(options "")(descr ""))
 )

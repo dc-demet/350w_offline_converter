@@ -1,8 +1,8 @@
 (footprint "UCC28950" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.1)))
+  (fp_text reference "REF**" (at 1.6 -4.8 unlocked) (layer "F.SilkS")
+      (effects (font (size 0.75 0.75) (thickness 0.1524) bold))
     (tstamp 3273a4e3-9e02-497a-9b1a-e14dc14f422e)
   )
   (fp_text value "UCC28950" (at 0 1 unlocked) (layer "F.Fab")
@@ -71,7 +71,7 @@
     (thermal_bridge_angle 45) (tstamp 1b23c8ab-c213-4961-b8f1-ce3ec31c2a78))
   (pad "24" smd roundrect (at 2.9 -3.575) (size 1.5 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1111111111)
     (thermal_bridge_angle 45) (tstamp d5bafdd5-8ba9-4e13-a819-5fb48b627988))
-  (model "${KIPRJMOD}/full bridge smps.pretty/UCC28950.stp"
+  (model "${KIPRJMOD}/fb_smps_3d_models/UCC28950.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
