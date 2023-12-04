@@ -477,6 +477,14 @@
     [
       "f89200e7-8fc9-4acb-bb2b-7da3a53d52f5",
       ""
+    ],
+    [
+      "21f308e5-6ef4-4d74-8629-c11c93821636",
+      "EMI Filter and Rectification"
+    ],
+    [
+      "e997b072-89af-4305-9e32-2a6ea6e450e3",
+      "Rectifier Feedback and Control"
     ]
   ],
   "text_variables": {}
