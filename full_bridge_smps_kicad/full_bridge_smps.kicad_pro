@@ -485,6 +485,10 @@
     [
       "e997b072-89af-4305-9e32-2a6ea6e450e3",
       "Rectifier Feedback and Control"
+    ],
+    [
+      "c7dd24b6-4b1e-4a6b-9e8e-5cce0d372c9a",
+      "Power Factor Correction"
     ]
   ],
   "text_variables": {}

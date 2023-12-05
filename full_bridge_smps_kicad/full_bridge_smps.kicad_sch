@@ -30,6 +30,23 @@
     )
   )
 
+  (sheet (at 130.81 22.86) (size 22.86 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c7dd24b6-4b1e-4a6b-9e8e-5cce0d372c9a)
+    (property "Sheetname" "Power Factor Correction" (at 130.81 22.1484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power Factor Correction.kicad_sch" (at 130.81 43.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "full_bridge_smps"
+        (path "/f89200e7-8fc9-4acb-bb2b-7da3a53d52f5" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 76.2 22.86) (size 22.86 20.32) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

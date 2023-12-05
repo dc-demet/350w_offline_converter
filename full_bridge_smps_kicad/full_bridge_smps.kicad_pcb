@@ -104,7 +104,7 @@
 
   (footprint "full bridge smps:UCC28950" (layer "F.Cu")
     (tstamp 619d2483-676a-453d-81d5-34af775db65e)
-    (at 111.4 92.945)
+    (at 106.32 70.205)
     (property "Sheetfile" "full_bridge_smps.kicad_sch")
     (property "Sheetname" "")
     (property "ki_keywords" "UCC28950PW")
