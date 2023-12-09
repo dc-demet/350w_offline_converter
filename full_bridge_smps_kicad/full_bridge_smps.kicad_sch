@@ -64,6 +64,23 @@
     )
   )
 
+  (sheet (at 24.13 54.61) (size 21.59 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f2867568-04a9-4edf-9b6b-18bf96885470)
+    (property "Sheetname" "PFC Feedback and Control" (at 24.13 53.8984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PFC Feedback and Control.kicad_sch" (at 24.13 75.5146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "full_bridge_smps"
+        (path "/f89200e7-8fc9-4acb-bb2b-7da3a53d52f5" (page "5"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )

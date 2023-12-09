@@ -489,6 +489,10 @@
     [
       "c7dd24b6-4b1e-4a6b-9e8e-5cce0d372c9a",
       "Power Factor Correction"
+    ],
+    [
+      "f2867568-04a9-4edf-9b6b-18bf96885470",
+      "PFC Feedback and Control"
     ]
   ],
   "text_variables": {}
