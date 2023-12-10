@@ -30,6 +30,23 @@
     )
   )
 
+  (sheet (at 76.2 54.61) (size 22.86 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 85fdb03b-7554-4cc6-bdba-d5c4c5373b63)
+    (property "Sheetname" "Full Bridge Power Conversion" (at 76.2 53.8984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Full Bridge Power Conversion.kicad_sch" (at 76.2 75.5146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "full_bridge_smps"
+        (path "/f89200e7-8fc9-4acb-bb2b-7da3a53d52f5" (page "6"))
+      )
+    )
+  )
+
   (sheet (at 130.81 22.86) (size 22.86 20.32) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

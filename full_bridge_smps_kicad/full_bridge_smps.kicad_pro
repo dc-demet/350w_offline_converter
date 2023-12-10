@@ -493,6 +493,10 @@
     [
       "f2867568-04a9-4edf-9b6b-18bf96885470",
       "PFC Feedback and Control"
+    ],
+    [
+      "85fdb03b-7554-4cc6-bdba-d5c4c5373b63",
+      "Full Bridge Power Conversion"
     ]
   ],
   "text_variables": {}
