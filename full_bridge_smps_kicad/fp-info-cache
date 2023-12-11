@@ -1,4 +1,4 @@
-20287061317314550
+20288763567722163
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85826,6 +85826,13 @@ IPA60R280C6
 0
 3
 3
+fb_smps_footprints
+IPB081N06L3 G
+
+
+0
+0
+0
 fb_smps_footprints
 IPW60R041C6
 

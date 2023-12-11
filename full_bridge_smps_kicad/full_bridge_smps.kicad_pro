@@ -497,6 +497,18 @@
     [
       "85fdb03b-7554-4cc6-bdba-d5c4c5373b63",
       "Full Bridge Power Conversion"
+    ],
+    [
+      "c7303b7d-06b5-4323-8b5e-e3a64522b77b",
+      "Secondary Recitification"
+    ],
+    [
+      "47a8af06-83c5-43ea-a951-29df95612399",
+      "Full Bridge Feedback and Drive"
+    ],
+    [
+      "a55564a7-d1ed-4010-9b7a-3eb16943cd29",
+      "Full Bridge Controller"
     ]
   ],
   "text_variables": {}
